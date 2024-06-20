@@ -3,7 +3,8 @@ const UserCard = ({image,fullName, id}) => {
     const imageStyle = {
         display:'flex',
         alignItems:'center',
-        padding:'10px'
+        padding:'10px',
+    
     }
     return(
         <div className="image">
