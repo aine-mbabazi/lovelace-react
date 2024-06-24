@@ -2,6 +2,7 @@ form{
     width: 60%;
     border:solid 1px;
     padding: 10px;
+    margin-left: 15%;
 }
 
 input{
@@ -14,7 +15,7 @@ button{
     padding: 12px 10px;
     width: 97%;
     border: none;
-    background-color: rgb(105,161,105);
+    background-color: rgb(139, 59, 138);
     color: #ffffff;
     border-radius: 5px;
     cursor: pointer;

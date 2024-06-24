@@ -1,6 +1,7 @@
 
 import{useGetUsers} from "./hooks/useGetUsers"
 import UserCard from "../Atoms/UserCard";
+import './index.css'
 
 
 const Users = () => {

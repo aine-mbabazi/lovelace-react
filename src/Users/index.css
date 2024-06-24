@@ -1,4 +1,10 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .image{
     display: flex;
-    flex-wrap: wrap;   
+    width: 1800px;
+    flex-wrap: wrap;
+    margin:2% 15% 0 15%;
 }
